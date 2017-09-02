@@ -25,7 +25,7 @@ Index page
 		<footer>
     		<ul>
         		<li><a href="mailto:derekrledoux@gmail.com">email</a></li>
-            <li><a href="tel:218.461.2140">phone</a></li>   
+            		<li><a href="tel:+12184612140">218.461.2140</a></li>
 			</ul>
 		</footer>
 	</body>
