@@ -5,7 +5,7 @@ Index page
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Derek LeDoux Consulting Services</title>
+		<title>Derek LeDoux Consulting</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
